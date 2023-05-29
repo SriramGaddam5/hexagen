@@ -1,4 +1,6 @@
 # Hexagen
+Play it [here](https://sriramgaddam5.github.io/hexagen/)!
+
 Immerse yourself in a multiplayer hexagon world. Gather resources, forge defenses, and battle lurking monsters. Construct walls and bases for protection, explore ruins, and create farms. Unleash your imagination to build anything you desire! Play now and unleash your creativity!
 
 - Harvest resources from various sources across the map
