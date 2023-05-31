@@ -7,7 +7,7 @@
   </head>
   <body style="text-align: center; padding: 0; border: 0; margin: 0;">
     <canvas id="unity-canvas" width=960 height=600 style="width: 960px; height: 600px; background: #000000"></canvas>
-    <script src="Build/WebGL 0.010.loader.js"></script>
+    <script src="Build/WebGL 0.011.loader.js"></script>
     <script>
       if (/iPhone|iPad|iPod|Android/i.test(navigator.userAgent)) {
         // Mobile device style: fill the whole browser client area with the game canvas:
@@ -25,9 +25,9 @@
       }
 
       createUnityInstance(document.querySelector("#unity-canvas"), {
-        dataUrl: "Build/WebGL 0.010.data",
-        frameworkUrl: "Build/WebGL 0.010.framework.js",
-        codeUrl: "Build/WebGL 0.010.wasm",
+        dataUrl: "Build/WebGL 0.011.data",
+        frameworkUrl: "Build/WebGL 0.011.framework.js",
+        codeUrl: "Build/WebGL 0.011.wasm",
         streamingAssetsUrl: "StreamingAssets",
         companyName: "SriramStudios",
         productName: "Hexagen",
